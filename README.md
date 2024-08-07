@@ -2,6 +2,8 @@
 
 This project is a simple Node.js server that responds to ping requests. It is packaged in a Docker container for easy deployment.
 
+![Project Screenshot](screenshot.JPG)
+
 ## Prerequisites
 
 Ensure you have the following installed on your system:
